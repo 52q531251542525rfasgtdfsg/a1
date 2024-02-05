@@ -1,0 +1,13 @@
+var varA = 2;
+var varB = 2;
+var varC = 2;
+
+//  b² −4ac
+// b² = b*b
+// - 
+// 4*a*c
+
+var rnt = (varB * varB) - (4*varA*varC)
+
+// Imprimindo o resultado
+console.log("resutado " + rnt);
